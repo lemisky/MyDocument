@@ -12,3 +12,6 @@ Already up to date.
 git pull
 git pull origin master
 git pull origin master –allow-unrelated-histories
+
+如果不行，就
+删除git仓库，重新push
